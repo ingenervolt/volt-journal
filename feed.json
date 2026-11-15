@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Инженер Вольт",
+    "description": "",
+    "home_page_url": "https://ingenervolt.github.io/volt-journal",
+    "feed_url": "https://ingenervolt.github.io/volt-journal/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Инженер Вольт"
+    },
+    "items": [
+    ]
+}

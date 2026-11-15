@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ingenervolt.github.io/volt-journal/sitemap.xml
