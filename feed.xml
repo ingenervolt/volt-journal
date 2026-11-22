@@ -3,7 +3,7 @@
     <title>Инженер Вольт</title>
     <link href="https://ingenervolt.github.io/volt-journal/feed.xml" rel="self" />
     <link href="https://ingenervolt.github.io/volt-journal" />
-    <updated>2026-11-22T11:41:44+02:00</updated>
+    <updated>2026-11-22T11:45:15+02:00</updated>
     <author>
         <name>Инженер Вольт</name>
     </author>
@@ -735,7 +735,11 @@
         <updated>2026-11-20T18:59:27+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Почему общее устройство защитного отключения может создавать неудобства в эксплуатации и как грамотно распределить защиту по группам. На первый взгляд решение кажется простым: установить одно УЗО на вводе и подключить к нему все линии дома&hellip;
+                    <p><strong>Почему общее устройство защитного отключения может создавать неудобства в эксплуатации и как грамотно распределить защиту по группам.</strong></p>
+<figure class="post__image"><img loading="lazy"  src="https://ingenervolt.github.io/volt-journal/media/posts/4/Odno-UZO-ili-gruppovaya-zashchita_-1-3.png" alt="" width="1672" height="941" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://ingenervolt.github.io/volt-journal/media/posts/4/responsive/Odno-UZO-ili-gruppovaya-zashchita_-1-3-xs.png 320w ,https://ingenervolt.github.io/volt-journal/media/posts/4/responsive/Odno-UZO-ili-gruppovaya-zashchita_-1-3-sm.png 480w ,https://ingenervolt.github.io/volt-journal/media/posts/4/responsive/Odno-UZO-ili-gruppovaya-zashchita_-1-3-md.png 768w ,https://ingenervolt.github.io/volt-journal/media/posts/4/responsive/Odno-UZO-ili-gruppovaya-zashchita_-1-3-xl.png 1024w"></figure>
+<h2>В чём проблема одного общего УЗО?</h2>
+<p>На первый взгляд решение кажется простым: установить одно УЗО на вводе и подключить к нему все линии дома или квартиры.</p>
+
                 ]]>
             </summary>
         <content type="html">
@@ -744,6 +748,7 @@
 <figure class="post__image"><img loading="lazy"  src="https://ingenervolt.github.io/volt-journal/media/posts/4/Odno-UZO-ili-gruppovaya-zashchita_-1-3.png" alt="" width="1672" height="941" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://ingenervolt.github.io/volt-journal/media/posts/4/responsive/Odno-UZO-ili-gruppovaya-zashchita_-1-3-xs.png 320w ,https://ingenervolt.github.io/volt-journal/media/posts/4/responsive/Odno-UZO-ili-gruppovaya-zashchita_-1-3-sm.png 480w ,https://ingenervolt.github.io/volt-journal/media/posts/4/responsive/Odno-UZO-ili-gruppovaya-zashchita_-1-3-md.png 768w ,https://ingenervolt.github.io/volt-journal/media/posts/4/responsive/Odno-UZO-ili-gruppovaya-zashchita_-1-3-xl.png 1024w"></figure>
 <h2>В чём проблема одного общего УЗО?</h2>
 <p>На первый взгляд решение кажется простым: установить одно УЗО на вводе и подключить к нему все линии дома или квартиры.</p>
+
 <p>Устройство контролирует утечку тока, а при возникновении опасной ситуации отключает электропитание.</p>
 <p>Но у такой схемы есть существенный недостаток: все потребители оказываются объединены под одним устройством защиты.</p>
 <p>И проблема заключается не только в том, что при срабатывании УЗО отключается весь объект. Есть ещё один фактор — естественные токи утечки подключённого оборудования.</p>
