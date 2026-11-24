@@ -20,9 +20,13 @@
                 "name": "Инженер Вольт"
             },
             "tags": [
+                   "Электрощиты",
+                   "УЗО",
+                   "Ошибки монтажа",
+                   "Диагностика"
             ],
             "date_published": "2026-11-24T10:08:20+02:00",
-            "date_modified": "2026-11-24T10:12:33+02:00"
+            "date_modified": "2026-11-24T11:23:13+02:00"
         },
         {
             "id": "https://ingenervolt.github.io/volt-journal/obryv-nulya-v-podezde.html",
